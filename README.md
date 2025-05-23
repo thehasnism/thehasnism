@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasnat Manzoor</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Hasnat Manzoor</h1>
 <h3 align="center">A Passionate Android & Flutter Developer</h3>
 
 <p align="center">
